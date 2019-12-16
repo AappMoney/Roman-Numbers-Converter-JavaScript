@@ -24,8 +24,6 @@ const CONVERTER = function (num) {
         }
     }
     return roman;
-
-
 }
 
 console.log(CONVERTER(11));
